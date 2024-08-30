@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naloko
+- 👋 Hi, I’m @yargaya
 - 👀 I’m interested in ... tech
 - 🌱 I’m currently learning ... AI/ML/DS
 - 💞️ I’m looking to collaborate on ... ANY PROJECT THAT INCLUDE ML/DS
